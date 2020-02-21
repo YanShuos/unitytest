@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3910668318
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce39665cc6fa723274cde63ec0647389
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e64eed96d1edb04a412284dc7f2c84d5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 605fa96e32e555442802cfc87419b87d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/MySphere.prefab
+- Assets/Prefab/MyCube2.prefab
+- Assets/Prefab/MyCube.prefab
+Dependencies: []
